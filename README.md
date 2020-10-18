@@ -1,6 +1,6 @@
 # XYZ Product Management
 
-A basic product management system that has been generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3 in order to have a play around with Angular.
+A basic product management app that has been generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3 in order to have a play around with Angular.
 
 ## Development server
 
